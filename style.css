@@ -3,12 +3,13 @@ body {
   max-width: 500px;
   margin:auto;}
     
-    @font-face{
+  @font-face{
   font-family: 'CenturyGothic';
   src: url('/fonts/centurygothic.ttf') format('truetype');}
-  p,h1,li{
+  p,h1{
     font-family: 'CenturyGothic';
-  color: black;}
+  color: black;
+  text-align: center;}
 .wrapper {
   height: 100%;
   display: flex;
