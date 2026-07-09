@@ -1,0 +1,25 @@
+body {
+ background-color: gray;
+  max-width: 500px;
+  margin:auto;}
+
+
+@font-face{
+  font-family: 'CenturyGothic';
+  src: url('fonts/CenturyGothic.woff') format('woff');}
+  p,h1,li{
+    font-family: 'CenturyGothic'}
+    
+   
+.wrapper {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+}
