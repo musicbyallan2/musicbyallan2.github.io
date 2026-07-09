@@ -1,14 +1,7 @@
 body {
- background-color: gray;
+ background-color: lightgray;
   max-width: 500px;
   margin:auto;}
-
-
-@font-face{
-  font-family: 'CenturyGothic';
-  src: url('fonts/CenturyGothic.woff') format('woff');}
-  p,h1,li{
-    font-family: 'CenturyGothic'}
     
    
 .wrapper {
