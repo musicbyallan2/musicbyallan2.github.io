@@ -26,7 +26,8 @@ body {
   background-color: black;
   border: none;
   color: white;
-  padding: 15px 32px;
+ font-family: 'CenturyGothic';
+  padding: 10px 20px;
   text-align: center;
   text-decoration: italic;
   display: inline-block;
